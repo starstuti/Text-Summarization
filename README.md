@@ -4,7 +4,7 @@ In this project, we have performed Natural-Language-Processing and Ensemble lear
 
 Text Summariation App Link: https://text-summarization-app.herokuapp.com/
 <br>
-Github repo of text summarization app: https://github.com/gpriya32/text-summarization
+
 
 Learned about Natural Language Processing techniques, feature-extraction, and conversion of Unsupervised data to Supervised data. Worked with an NLTK python library and learned about different Ensemble-techniques such as bagging, boosting, stacking, AdaBoost. 
 
